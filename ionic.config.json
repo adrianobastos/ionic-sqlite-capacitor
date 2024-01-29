@@ -1,0 +1,7 @@
+{
+  "name": "OfflineFirstApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
